@@ -1,0 +1,11 @@
+.indent {
+  text-indent: 2em;
+}
+
+.resize-none {
+  resize: none;
+}
+
+.placeholder-center::placeholder {
+  text-align: center;
+}
